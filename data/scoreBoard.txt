@@ -1,0 +1,3 @@
+pacman 19800
+mario 4700
+AAA 0
